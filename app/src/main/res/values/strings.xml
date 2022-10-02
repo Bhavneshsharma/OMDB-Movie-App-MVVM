@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fi Project Bhavnesh</string>
+    <string name="top_name">abda</string>
+    <string name="top_name_dot">.</string>
+    <string name="search_hint">search movie or show</string>
+    <string name="home">Home</string>
+    <string name="movies">Movies</string>
+    <string name="series">Series</string>
+    <string name="episodes">Episodes</string>
+    <string name="data_not_avaliable_bottom">API Not Available for More Content In bottom Sheet!</string>
+    <string name="item_not_avaliable">Item not available!</string>
+</resources>
